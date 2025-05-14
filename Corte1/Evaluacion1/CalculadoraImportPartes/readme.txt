@@ -1,1 +1,3 @@
-Para utilizar el codigo con un archivo externo guardar ambos archivos en una misma carpeta siendo mainCalculadora.py el archivo principal donde funcionará el codigo y calculadora.py el archivo desde donde se importan las clases 
+Para utilizar el codigo con un archivo externo guardar ambos archivos en una misma carpeta 
+en donde en la carpeta se deberia de ver de esta manera
+
