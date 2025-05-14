@@ -3,7 +3,7 @@ from calculadora import Calculadora
 def main():
     calc = Calculadora()
     
-    print("🧮 Bienvenido a la Calculadora POO 🧮")
+    print("🧮 Bienvenido a la Calculadora 🧮")
     
     while True:
         try:
